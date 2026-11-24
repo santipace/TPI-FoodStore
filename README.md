@@ -5,8 +5,7 @@ Aplicación web completa para un negocio de comidas: los clientes se registran, 
 carrito y confirman pedidos; el administrador gestiona categorías, productos, stock, pedidos y usuarios.
 
 - **Autor:** Pace Santiago Julian
-- **Repositorio:** COMPLETAR: https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITORIO
-- **Video de demostración:** COMPLETAR: https://youtu.be/ID_DEL_VIDEO
+
 
 ## Stack
 
